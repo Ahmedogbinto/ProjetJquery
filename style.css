@@ -1,0 +1,40 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+ul,ol
+{
+  list-style: none;
+}
+body
+{
+ background: #bfbfbf url("images/background.jpg") repeat-x;
+ font-family: Arial, sans-serif;
+}
+header
+{
+  padding: 30px;
+}
+header h1
+{
+  font-size:40px;
+  text-align: center;
+  color: #ffff;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 2px #000;
+}
+
+/* MAIN-MENU */
+
+#main-menu ul
+{
+  width:980 px ;
+  height: 500 px;
+  margin:0 auto;
+  padding-top:148px;
+}
+#main-menu ul li
+{
+  
+}
